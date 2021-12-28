@@ -10,7 +10,12 @@ h1{
   border-bottom: 4px solid black;
 }
 
-button{display: inline-block;background: black;color: white;font-size: 16px;font-weight: 900;
+button{
+  display: inline-block;
+  background: black;
+ color: white;
+  font-size: 16px;
+  font-weight: 900;
 
 
 
